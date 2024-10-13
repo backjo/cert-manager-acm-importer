@@ -9,3 +9,4 @@ Permissions:
 This controller requires List,Get,Watch permissions on Secrets and Certificates across any namespaces that you wish to allow certificates to be imported into ACM.
 
 On the AWS side, it requires all ACM permissions except for acm:RequestCertificate and acm:ResendValidationEmail
+ 
